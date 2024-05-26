@@ -3,6 +3,7 @@ CREATE TABLE countries (
     n TEXT,
     p INT
 );
+-- add countries
 -- @block
 INSERT INTO countries(n, p) VALUES ("CA", 210);
 
