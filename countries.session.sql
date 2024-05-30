@@ -7,6 +7,9 @@ CREATE TABLE countries (
 -- @block
 INSERT INTO countries(n, p) VALUES ("CA", 210);
 
+-- @block
+INSERT INTO countries(n, p) VALUES ("MX", 110);
+
 -- retreive data block
 -- @block
 SELECT * FROM countries;
